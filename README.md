@@ -6,11 +6,13 @@ Après plusieurs années d'expérience dans le domaine du marketing digital et d
 
 👉 En résumé
 
-🔭 Je suis développeur web junior full-stack
-🌱 Je continue d'approfondir mes connaissances en JS
-📫 Vous souhaitez me contacter ? Mon email : g.moreaud@gmail.com
-📄 Visiter mon profil Linkedin
-🤠 Retrouvez-moi sur 👇
+<ul>
+  <li>🔭 Je suis développeur web junior full-stack</li>
+  <li>🌱 Je continue d'approfondir mes connaissances en JS</li>
+  <li>📫 Vous souhaitez me contacter ? Mon email : g.moreaud@gmail.com</li>
+  <li>📄 Visiter mon profil Linkedin</li>
+  <li>🤠 Retrouvez-moi sur 👇</li>
+</ul>
 
 <a href="https://www.linkedin.com/in/geoffroy-moreaud/">Linkedin</a> - <a href="https://github.com/Geofrmd">Github</a>
 
