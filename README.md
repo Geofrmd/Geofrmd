@@ -14,7 +14,7 @@ Après plusieurs années d'expérience dans le domaine du marketing digital et d
   <li>🤠 Retrouvez-moi sur 👇</li>
 </ul>
 
-<a href="https://www.linkedin.com/in/geoffroy-moreaud/">Linkedin</a> - <a href="https://github.com/Geofrmd">Github</a>
+<a href="https://www.linkedin.com/in/geoffroy-moreaud/">Linkedin</a> | <a href="https://github.com/Geofrmd">Github</a>
 
 ⚡ Technologies & skills
 
